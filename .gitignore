@@ -64,3 +64,5 @@ google-services.json
 *.exe
 *.out
 *.app
+
+*.java
